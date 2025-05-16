@@ -1,5 +1,5 @@
 ---
-title: "ghayes"
+title: "Gracie Hayes"
 ---
 
 This is a Quarto website.
