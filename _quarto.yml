@@ -8,6 +8,10 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - courses
+    right:
+      - text: CV
+        href: Hayes_CV_2025.pdf
 
 format:
   html:

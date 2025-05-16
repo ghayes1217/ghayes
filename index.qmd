@@ -10,14 +10,12 @@ about:
     - icon: github
       text: Github
       href: https://github.com/ghayes1217
-    - text: CV
-      file: Hayes_CV_2025.pdf
 ---
 
-This is a Quarto website.
+## Education
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Northwestern University | Evanston, IL
+PhD in Statistics and Data Science | Anticipated June 2027
 
-```{r}
-1 + 1
-```
+Wheaton College | St. Paul, MN
+B.A in Economics | Sept 2007 - June 2011
