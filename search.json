@@ -4,20 +4,34 @@
     "href": "index.html",
     "title": "Gracie Hayes",
     "section": "",
-    "text": "Northwestern University | Evanston, IL PhD in Statistics and Data Science | Anticipated June 2027\nWheaton College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011"
+    "text": "I am a PhD candidate currently working on projects in Experimental Design and Meta Analysis.\n\n\nNorthwestern University | Evanston, IL PhD in Statistics and Data Science | Anticipated June 2027\nWheaton College | Wheaton, IL B.S. in Mathematics & B.S. in Sociology | Aug 2018 - May 2022\n\n\n\nCompany | Roled | Month Year - Month Year"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Gracie Hayes",
     "section": "",
-    "text": "Northwestern University | Evanston, IL PhD in Statistics and Data Science | Anticipated June 2027\nWheaton College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011"
+    "text": "Northwestern University | Evanston, IL PhD in Statistics and Data Science | Anticipated June 2027\nWheaton College | Wheaton, IL B.S. in Mathematics & B.S. in Sociology | Aug 2018 - May 2022"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Gracie Hayes",
     "section": "",
-    "text": "About this site (testing the pull)\n\n1 + 1\n\n[1] 2"
+    "text": "Company | Roled | Month Year - Month Year"
+  },
+  {
+    "objectID": "pres.html",
+    "href": "pres.html",
+    "title": "Posters",
+    "section": "",
+    "text": "3rd Place Award, Wheaton College 2021 Summer Research Poster Session (October 2021, Wheaton, IL).\nJoint Math Meetings 2022 Pi Mu Epsilon Undergraduate Poster Session (April 2022, Virtual)."
+  },
+  {
+    "objectID": "pres.html#decorrelation-detection-in-financial-time-series-data",
+    "href": "pres.html#decorrelation-detection-in-financial-time-series-data",
+    "title": "Posters",
+    "section": "",
+    "text": "3rd Place Award, Wheaton College 2021 Summer Research Poster Session (October 2021, Wheaton, IL).\nJoint Math Meetings 2022 Pi Mu Epsilon Undergraduate Poster Session (April 2022, Virtual)."
   }
 ]
