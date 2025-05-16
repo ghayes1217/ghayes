@@ -7,20 +7,31 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - courses
-    right:
+      - href: about.qmd
+        text: About
+      - href: pres.qmd
+        text: Posters & Presentations
       - text: CV
         href: Hayes_CV_2025.pdf
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
+    theme: 
+      - stylesheet1.scss
+    mainfont: Montserrat
     toc: true
+
+# format:
+#   html:
+#     theme:
+#       - cosmo
+#       - brand
+#     css: styles.css
+#     toc: true
 
 execute:
   freeze: auto
 
+resources:
+  - Hayes_CV_2025.pdf
+  

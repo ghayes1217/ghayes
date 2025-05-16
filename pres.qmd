@@ -1,0 +1,10 @@
+---
+title: "Posters"
+format: html
+---
+
+## Decorrelation Detection in Financial Time Series Data
+
+-   3rd Place Award, Wheaton College 2021 Summer Research Poster Session (October 2021, Wheaton, IL).
+
+-   Joint Math Meetings 2022 Pi Mu Epsilon Undergraduate Poster Session (April 2022, Virtual).

@@ -1,7 +1,7 @@
 ---
 title: "Gracie Hayes"
 about:
-  template: jolla
+  template: trestles
   image: images/headshot_04_2024.jpg
   links:
     - icon: linkedin
@@ -10,12 +10,24 @@ about:
     - icon: github
       text: Github
       href: https://github.com/ghayes1217
+    - text: CV
+      href: Hayes_CV_2025.pdf
 ---
+
+:::{#hero-heading}
+
+I am a PhD candidate currently working on projects in Experimental Design and Meta Analysis.
 
 ## Education
 
 Northwestern University | Evanston, IL
 PhD in Statistics and Data Science | Anticipated June 2027
 
-Wheaton College | St. Paul, MN
-B.A in Economics | Sept 2007 - June 2011
+Wheaton College | Wheaton, IL
+B.S. in Mathematics & B.S. in Sociology | Aug 2018 - May 2022
+
+## Experience
+
+Company | Roled | Month Year - Month Year
+
+:::
