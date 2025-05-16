@@ -1,5 +1,17 @@
 ---
 title: "Gracie Hayes"
+about:
+  template: jolla
+  image: images/headshot_04_2024.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/graciehayes/
+    - icon: github
+      text: Github
+      href: https://github.com/ghayes1217
+    - text: CV
+      file: Hayes_CV_2025.pdf
 ---
 
 This is a Quarto website.

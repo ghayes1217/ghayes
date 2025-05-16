@@ -1,11 +1,9 @@
 {
-  "hash": "5e3608b44b8f532bbb864ddbd7e6ddaf",
+  "hash": "93012ccfff5230a30ff07a40f0eee7dd",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Gracie Hayes\"\n---\n\n\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
-    "supporting": [
-      "index_files"
-    ],
+    "markdown": "---\ntitle: \"Gracie Hayes\"\nabout:\n  template: jolla\n  image: images/headshot_04_2024.jpg\n  links:\n    - icon: linkedin\n      text: LinkedIn\n      href: https://www.linkedin.com/in/graciehayes/\n    - icon: github\n      text: Github\n      href: https://github.com/ghayes1217\n    - text: CV\n      file: Hayes_CV_2025.pdf\n---\n\n\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
