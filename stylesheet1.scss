@@ -31,13 +31,13 @@ $main-font-size: 25px;
 $main-width: 500px;
 
 // Base document colors
-$navbar-bg: $darkred; // navbar
+$navbar-bg: $seagreen; // navbar
 $navbar-fg: $white; // navbar foreground elements
-$navbar-hl: $darkred; // highlight color when hovering over navbar links
+$navbar-hl: $white; // highlight color when hovering over navbar links
 $body-bg: $white; // page background 
 $body-color: $black; // page text 
-$footer-bg: $darkred; // footer 
-$link-color: $darkred; // hyperlinks 
+$footer-bg: $seagreen; // footer 
+$link-color: $seagreen; // hyperlinks 
 
 // Inline code
 $code-bg: $cream; // inline code background color
@@ -57,5 +57,5 @@ h1, h2 {
 }
 
 h3 {
-  color: $darkred;
+  color: $seagreen;
 }
