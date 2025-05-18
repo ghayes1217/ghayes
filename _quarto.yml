@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "ghayes"
+  title: "Gracie Hayes"
   navbar:
     left:
       - href: index.qmd
@@ -20,6 +20,7 @@ format:
       - stylesheet1.scss
     mainfont: Montserrat
     toc: true
+    link-external-newwindow: true
 
 # format:
 #   html:

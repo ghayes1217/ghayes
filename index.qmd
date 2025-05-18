@@ -2,7 +2,7 @@
 title: "Gracie Hayes"
 about:
   template: trestles
-  image: images/headshot_04_2024.jpg
+  image: images/headshot_04_2024_square.jpg
   links:
     - icon: linkedin
       text: LinkedIn
@@ -18,7 +18,7 @@ about:
 
 I am a PhD candidate currently working on projects in Experimental Design and Meta Analysis.
 
-## Education
+### Education
 
 Northwestern University | Evanston, IL
 PhD in Statistics and Data Science | Anticipated June 2027
@@ -26,8 +26,8 @@ PhD in Statistics and Data Science | Anticipated June 2027
 Wheaton College | Wheaton, IL
 B.S. in Mathematics & B.S. in Sociology | Aug 2018 - May 2022
 
-## Experience
+### Experience
 
-Company | Roled | Month Year - Month Year
+Company | Role | Month Year - Month Year
 
 :::
