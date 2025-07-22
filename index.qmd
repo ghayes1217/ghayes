@@ -17,7 +17,7 @@ about:
 ---
 
 :::: {#hero-heading}
-I am a PhD candidate currently working on projects in Experimental Design and Meta Analysis.
+I am a PhD candidate currently working on projects in Experimental Design and Meta Analysis. My career aspiration is to advance social justice by promoting equitable research methods and fair interpretations of quantitative data.
 
 ### Education
 
@@ -35,8 +35,9 @@ Wheaton College | Aug 2018 - May 2022
 September 2023 - Present\
 [*Bruce Spencer Outstanding Graduate TA or GA Award*](https://statistics.northwestern.edu/graduate/grad-awards.html)  
 
-**Student Member** \| Society for Research Synthesis Methods\
-April 2025 - Present
+**Student Member**  
+Society for Research Synthesis Methods | April 2025 - Present  
+Society for Research on Educational Effectiveness | August 2024 - Present  
 
 **Consultant** \| IES Summer Research Training Institute on Cluster-Randomized Trials  
 Summers 2023 - 2025
