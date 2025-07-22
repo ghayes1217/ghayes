@@ -21,13 +21,18 @@ I am a PhD candidate currently working on projects in Experimental Design and Me
 ### Education
 
 Northwestern University | Evanston, IL
-PhD in Statistics and Data Science | Anticipated June 2027
+PhD in Statistics and Data Science  
 
-Wheaton College | Wheaton, IL
-B.S. in Mathematics & B.S. in Sociology | Aug 2018 - May 2022
+Anticipated June 2027
 
-### Experience
+Wheaton College | Wheaton, IL  
+B.S. in Mathematics & B.S. in Sociology  
+Aug 2018 - May 2022
 
-Company | Role | Month Year - Month Year
+### Roles
 
+Northwestern University | Data Science Teaching Assistant  
+September 2023 - Present  
+Society for Research Synthesis Methods | Student Member  
+April 2025 - Present
 :::
