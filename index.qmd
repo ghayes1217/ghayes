@@ -10,29 +10,36 @@ about:
     - icon: github
       text: Github
       href: https://github.com/ghayes1217
+    - text: STEPP Center
+      href: https://steppcenter.northwestern.edu/
     - text: CV
       href: Hayes_CV_2025.pdf
 ---
 
-:::{#hero-heading}
-
+:::: {#hero-heading}
 I am a PhD candidate currently working on projects in Experimental Design and Meta Analysis.
 
 ### Education
 
-Northwestern University | Evanston, IL
-PhD in Statistics and Data Science  
+**Ph.D. in Statistics and Data Science**  
+Northwestern University | Anticipated June 2027
 
-Anticipated June 2027
-
-Wheaton College | Wheaton, IL  
-B.S. in Mathematics & B.S. in Sociology  
-Aug 2018 - May 2022
+**B.S. in Mathematics & B.S. in Sociology**  
+Wheaton College | Aug 2018 - May 2022  
 
 ### Roles
 
-Northwestern University | Data Science Teaching Assistant  
-September 2023 - Present  
-Society for Research Synthesis Methods | Student Member  
+<div>
+
+**Data Science Teaching Assistant** \| Northwestern University\
+September 2023 - Present\
+[*Bruce Spencer Outstanding Graduate TA or GA Award*](https://statistics.northwestern.edu/graduate/grad-awards.html)  
+
+**Student Member** \| Society for Research Synthesis Methods\
 April 2025 - Present
-:::
+
+**Consultant** \| IES Summer Research Training Institute on Cluster-Randomized Trials  
+Summers 2023 - 2025
+
+</div>
+::::
