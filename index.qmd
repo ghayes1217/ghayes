@@ -9,7 +9,7 @@ about:
       href: https://www.linkedin.com/in/graciehayes/
     - icon: github
       text: Github
-      href: https://github.com/ghayes1217
+      href: https://github.com/gshayes
     - text: STEPP Center
       href: https://steppcenter.northwestern.edu/
     - text: CV
@@ -21,26 +21,31 @@ I am a PhD candidate currently working on projects in Experimental Design and Me
 
 ### Education
 
-**Ph.D. in Statistics and Data Science**  
-Northwestern University | Anticipated June 2027
+**Ph.D. in Statistics and Data Science**\
+Northwestern University \| Anticipated June 2027
 
-**B.S. in Mathematics & B.A. in Sociology**  
-Wheaton College | Aug 2018 - May 2022  
+**M.S. in Statistics and Data Science**\
+Northwestern University \| March 2024
+
+**B.S. in Mathematics & B.A. in Sociology**\
+Wheaton College \| May 2022
 
 ### Roles
 
 <div>
 
-**Data Science Teaching Assistant** \| Northwestern University\
-September 2023 - Present\
-[*Bruce Spencer Outstanding Graduate TA or GA Award*](https://statistics.northwestern.edu/graduate/grad-awards.html)  
+**Data Science Teaching Assistant**  
+Northwestern University | Sep 2023 - Present  
+[*Bruce Spencer Outstanding Graduate TA or GA Award*](https://statistics.northwestern.edu/graduate/grad-awards.html)
 
-**Student Member**  
-Society for Research Synthesis Methods | April 2025 - Present  
-Society for Research on Educational Effectiveness | August 2024 - Present  
+**Student Member**
 
-**Consultant** \| IES Summer Research Training Institute on Cluster-Randomized Trials  
-Summers 2023 - 2025
+-   Society for Research Synthesis Methods
+
+-   Society for Research on Educational Effectiveness
+
+**Consultant**  
+IES Summer Research Training Institute on Cluster-Randomized Trials | Summers 2023 - 2025
 
 </div>
 ::::
