@@ -3,7 +3,9 @@ project:
 
 website:
   title: "Gracie Hayes"
+  search: false
   navbar:
+    pinned: true
     left:
       - href: index.qmd
         text: Home
@@ -13,6 +15,11 @@ website:
         text: Posters & Presentations
       - text: CV
         href: Hayes_CV_2025.pdf
+  page-footer:
+    left: 
+      - icon: github
+      - text: Gracie Hayes
+        href: https://github.com/gshayes/ghayes
 
 format:
   html:
