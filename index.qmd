@@ -1,5 +1,6 @@
 ---
 title: "Gracie Hayes"
+subtitle: "Department of Statistics and Data Science,<br> Northwestern University"
 about:
   id: hero-heading
   template: trestles
@@ -33,8 +34,6 @@ Northwestern University \| March 2024
 **B.S. in Mathematics & B.A. in Sociology**\
 Wheaton College \| May 2022
 
-::::
-
 ### Roles
 
 <div>
@@ -53,3 +52,5 @@ Northwestern University | Sep 2023 - Present
 IES Summer Research Training Institute on Cluster-Randomized Trials | Summers 2023 - 2025
 
 </div>
+
+::::
